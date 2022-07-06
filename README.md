@@ -1,3 +1,1 @@
-# MyPortofolio
-
-## Ini buat bikin my website sendiri hehehhhhhhhh
+### INI website untuk my portofolio
